@@ -1,4 +1,4 @@
-# R_Internship_task
+# R_Internship_Task
 ## Problem Statement
 In bike-sharing systems, the entire process from membership to rental and return
 has been automated. Using these systems, users can easily rent a bike from one
@@ -26,3 +26,16 @@ environment and seasons.
 * casual - Count of casual users
 * registered - Count of registered users
 * cnt - Count of total rental bikes including both casual and registered
+## Tasks to Perform
+Perform the following tasks on the dataset provided using R:
+1. Exploratory data analysis:
+* Load the dataset and the relevant libraries
+* Perform data type conversion of the attributes
+* Carry out the missing value analysis
+2. Attributes distribution and trends
+  * Plot monthly distribution of the total number of bikes rented
+  * Plot yearly distribution of the total number of bikes rented
+  * Plot boxplot for outliers' analysis
+3. Split the dataset into train and test dataset
+4. Create a model using the random forest algorithm
+5. Predict the performance of the model on the test dataset
