@@ -1,11 +1,11 @@
 # R_Internship_Task
-## Problem Statement
+## Problem Statement:-
 In bike-sharing systems, the entire process from membership to rental and return
 has been automated. Using these systems, users can easily rent a bike from one
 location and return it to another. Hence, a bike rental company wants to
 understand and predict the number of bikes rented daily based on the
 environment and seasons. 
-## Dataset Description
+## Dataset Description:-
 * Variable - Description
 * instant - Record index
 * dteday - Date
@@ -26,7 +26,7 @@ environment and seasons.
 * casual - Count of casual users
 * registered - Count of registered users
 * cnt - Count of total rental bikes including both casual and registered
-## Tasks to Perform
+## Tasks to Perform:-
 Perform the following tasks on the dataset provided using R:
 1. Exploratory data analysis:
 * Load the dataset and the relevant libraries
@@ -39,3 +39,6 @@ Perform the following tasks on the dataset provided using R:
 3. Split the dataset into train and test dataset
 4. Create a model using the random forest algorithm
 5. Predict the performance of the model on the test dataset
+
+## How to run the code file:-
+* data set file is : 
