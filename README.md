@@ -41,7 +41,7 @@ Perform the following tasks on the dataset provided using R:
 5. Predict the performance of the model on the test dataset
 
 ## How to run the code file:-
-* data set file is : 1657875746_day.xlsx
+* Dataset file is : 1657875746_day.xlsx
 * R code file is : R_internship_task_WEBRIY.R
 * Put the data and R code file in a folder in the required local machine (where R and R studio softwares already installed beforehand)
 * Now Ctrl+A and run the whole script by clicking on "run" option present in Rstudio
