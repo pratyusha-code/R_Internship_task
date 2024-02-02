@@ -45,4 +45,4 @@ Perform the following tasks on the dataset provided using R:
 * R code file is : R_internship_task_WEBRIY.R
 * Put the data and R code file in a folder in the required local machine (where R and R studio softwares already installed beforehand)
 * Now Ctrl+A and run the whole script by clicking on "run" option present in Rstudio
-* 
+* All the visualizations plot already putting in github which i got it from the code.
